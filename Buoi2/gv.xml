@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DSSV>
+  <ThiSinh>
+    <SBD>9012</SBD>
+    <TEN>Hoang Van Lam</TEN>
+    <NAMSINH>1995</NAMSINH>
+    <TOAN>7.75</TOAN>
+    <VAN>4.5</VAN>
+    <ANH>5.5</ANH>
+  </ThiSinh>
+  <ThiSinh>
+    <SBD>9005</SBD>
+    <TEN>Tran Duc Minh</TEN>
+    <NAMSINH>1997</NAMSINH>
+    <TOAN>8.25</TOAN>
+    <VAN>4</VAN>
+    <ANH>7.5</ANH>
+  </ThiSinh>
+  <ThiSinh>
+    <SBD>9033</SBD>
+    <TEN>Le Hoai Anh</TEN>
+    <NAMSINH>1996</NAMSINH>
+    <TOAN>8</TOAN>
+    <VAN>3.5</VAN>
+    <ANH>6.75</ANH>
+  </ThiSinh>
+  <ThiSinh>
+    <SBD>9041</SBD>
+    <TEN>Trieu Van</TEN>
+    <NAMSINH>1998</NAMSINH>
+    <TOAN>10</TOAN>
+    <VAN>9</VAN>
+    <ANH>9.25</ANH>
+  </ThiSinh>
+  <ThiSinh>
+    <SBD>9028</SBD>
+    <TEN>Tao Thao</TEN>
+    <NAMSINH>1991</NAMSINH>
+    <TOAN>9.75</TOAN>
+    <VAN>8.25</VAN>
+    <ANH>9.5</ANH>
+  </ThiSinh>
+  <ThiSinh>
+    <SBD>9051</SBD>
+    <TEN>Lu Bo</TEN>
+    <NAMSINH>1996</NAMSINH>
+    <TOAN>9.75</TOAN>
+    <VAN>8.5</VAN>
+    <ANH>7.25</ANH>
+  </ThiSinh>
+  <ThiSinh>
+    <SBD>9017</SBD>
+    <TEN>Duc Minh Le</TEN>
+    <NAMSINH>1995</NAMSINH>
+    <TOAN>8.25</TOAN>
+    <VAN>7</VAN>
+    <ANH>8</ANH>
+  </ThiSinh>
+  <ThiSinh>
+    <SBD>9008</SBD>
+    <TEN>Le Bao Long</TEN>
+    <NAMSINH>1990</NAMSINH>
+    <TOAN>3.75</TOAN>
+    <VAN>6.5</VAN>
+    <ANH>2.25</ANH>
+  </ThiSinh>
+  <ThiSinh>
+    <SBD>9010</SBD>
+    <TEN>Tran Van Lam</TEN>
+    <NAMSINH>1997</NAMSINH>
+    <TOAN>7</TOAN>
+    <VAN>4</VAN>
+    <ANH>6.5</ANH>
+  </ThiSinh>
+  <ThiSinh>
+    <SBD>9089</SBD>
+    <TEN>Hao Thi Vung</TEN>
+    <NAMSINH>1999</NAMSINH>
+    <TOAN>8.5</TOAN>
+    <VAN>8.5</VAN>
+    <ANH>6</ANH>
+  </ThiSinh>
+</DSSV>

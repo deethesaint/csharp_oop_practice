@@ -1,1 +1,6 @@
 E:\LuuDuLieuSinhVien\VuThanhDuong\VuThanhDuong_OOP\Buoi2\bin\Debug\Buoi2.exe.config
+E:\LuuDuLieuSinhVien\VuThanhDuong\VuThanhDuong_OOP\Buoi2\bin\Debug\Buoi2.exe
+E:\LuuDuLieuSinhVien\VuThanhDuong\VuThanhDuong_OOP\Buoi2\bin\Debug\Buoi2.pdb
+E:\LuuDuLieuSinhVien\VuThanhDuong\VuThanhDuong_OOP\Buoi2\obj\Debug\Buoi2.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\VuThanhDuong\VuThanhDuong_OOP\Buoi2\obj\Debug\Buoi2.exe
+E:\LuuDuLieuSinhVien\VuThanhDuong\VuThanhDuong_OOP\Buoi2\obj\Debug\Buoi2.pdb
