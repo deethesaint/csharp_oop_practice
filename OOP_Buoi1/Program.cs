@@ -207,7 +207,7 @@ namespace OOP_Buoi1
 
             int temp = n;
 
-            int prime = 2;
+            int prime = 2;                                                                                                                                                                                                                                                                                                                                                               
             while (temp > 1)
             {
                 if (prime > temp) break;

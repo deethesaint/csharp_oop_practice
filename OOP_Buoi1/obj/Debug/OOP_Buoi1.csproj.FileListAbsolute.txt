@@ -4,3 +4,6 @@ c:\users\administrator\documents\visual studio 2013\Projects\VuThanhDuong_OOP\OO
 c:\users\administrator\documents\visual studio 2013\Projects\VuThanhDuong_OOP\OOP_Buoi1\obj\Debug\OOP_Buoi1.csprojResolveAssemblyReference.cache
 c:\users\administrator\documents\visual studio 2013\Projects\VuThanhDuong_OOP\OOP_Buoi1\obj\Debug\OOP_Buoi1.exe
 c:\users\administrator\documents\visual studio 2013\Projects\VuThanhDuong_OOP\OOP_Buoi1\obj\Debug\OOP_Buoi1.pdb
+E:\LuuDuLieuSinhVien\VuThanhDuong\VuThanhDuong_OOP\OOP_Buoi1\bin\Debug\OOP_Buoi1.exe.config
+E:\LuuDuLieuSinhVien\VuThanhDuong\VuThanhDuong_OOP\OOP_Buoi1\obj\Debug\OOP_Buoi1.exe
+E:\LuuDuLieuSinhVien\VuThanhDuong\VuThanhDuong_OOP\OOP_Buoi1\obj\Debug\OOP_Buoi1.pdb
